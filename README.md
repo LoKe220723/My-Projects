@@ -1,4 +1,4 @@
-# My-Project Cassava Leaves Disease Classifcation
+# Cassava Leaves Disease Classifcation
 🌿 Cassava Leaf Disease Classification
 This repository contains implementations of multiple deep learning models for the Cassava Leaf Disease Classification Kaggle competition.
 
